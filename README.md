@@ -17,5 +17,5 @@ basically but changing the selection and mutation functions.
 It can be better to change crossover functions as well to remove positional bias.
 
 ###### Credits
-There is also a cpp implementation of this algorithm by @github/SamanKhamesian
+There is also a c++ implementation of this algorithm by @github/SamanKhamesian
 using a different selection, mutation and crossover but using the same implementation for the game.
